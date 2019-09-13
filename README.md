@@ -25,7 +25,7 @@ an inner join. We only want the students with a certain grade. You can imagine a
 Venn Diagram where one circle is "Grades" and another circle is "Students". We
 only want the overlapping (or "inner") parts of the two circles.
 
-![inner join](http://readme-pics.s3.amazonaws.com/Grade%20example%20Venn%20Diagram.png)
+![inner join](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147_Venn_InnerJoin.png)
 
 Complex joins are useful and important when it comes to situations like the
 Field Trip Example. Sticking with the Venn Diagrams, we can think about
@@ -33,7 +33,7 @@ Field Trip Example. Sticking with the Venn Diagrams, we can think about
 outer join) will return the overlap between the two circles AND the rest (or the
 "outer" part) of the "Students" circle as well.
 
-![left outer join](http://readme-photos.s3.amazonaws.com/left-join-venn-diagram.png)
+![left outer join](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147_V_LeftOuterJoin_Blank.png)
 
 We'll elaborate more on visualizing joins in the Venn Diagrams section below.
 
@@ -171,22 +171,22 @@ represented by a circle.
 
 An Inner Join just returns the overlapping areas of the Venn Diagram.
 
-![inner join diagram](http://readme-pics.s3.amazonaws.com/Inner%20Join%20Venn%20Diagram.png)
+![inner join diagram](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147__InnerJoin_Blank.png)
 
 A Left Outer Join returns all the the data from the left circle, and it includes
 the overlapping information from the right circle.
 
-![left outer join diagram](http://readme-pics.s3.amazonaws.com/Left%20Outer%20Join%20Venn%20Diagram.png)
+![left outer join diagram](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147_V_LeftOuterJoin_Blank.png)
 
 A Right Outer Join returns all the the data from the right circle, and it
 includes the overlapping information from the left circle.
 
-![right outer join diagram](http://readme-pics.s3.amazonaws.com/Right%20Outer%20Join%20Venn%20Diagram.png)
+![right outer join diagram](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147_V_RightOuterJoin_Blank.png)
 
 A Full Outer Join returns all the data from all the tables, including the
 overlapping data.
 
-![full outer join diagram](http://readme-pics.s3.amazonaws.com/Full%20Outer%20Join%20Venn%20Diagram.png)
+![full outer join diagram](https://curriculum-content.s3.amazonaws.com/module-1/sql-table-relations/Image_147_V_FullOuterJoin_Blank.png)
 
 ## Examples
 
