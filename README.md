@@ -331,4 +331,4 @@ id    teacher_name   id      name     teacher_id
 NULL    NULL         6       Alexis       NULL
 ```
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/sql-complex-joins-readme'>SQL Complex Joins</a> on Learn.co and start learning to code for free.</p>
+
